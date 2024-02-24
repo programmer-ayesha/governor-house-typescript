@@ -1,3 +1,5 @@
+// add a comment
+
 // addition
 console.log(6+5);
 
